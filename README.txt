@@ -1,4 +1,5 @@
 # High-Performance-Computing
+#
 # Classification task on AT&T face database from Olivetti Research Laboratories
 # The objective of this experiment is to demonstrate how the biometric
 # (the ratio of the distance between the eyes of a person to the
@@ -50,4 +51,7 @@
 # away from the valid data sets. So the number of data sets is much
 # smaller than that of the face database. It is a matter of learning
 # from the training sets and choosing algorithm.
+
+
+
 
