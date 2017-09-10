@@ -32,6 +32,9 @@
 # features for every person out of 40. The database folder MUST be
 # in the CURRENT DIRECTORY WITH THIS FILE.
 #
+# One of the permanent URL for the database is:
+# ttp://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
+#
 # As a tool implemented in OpenCV, Haar cascades were used as detectors.
 # The cascades used in this experiment are listed as follows:
 # haarcascade_frontalface_alt_tree.xml, haarcascade_frontalface_alt2.xml,
